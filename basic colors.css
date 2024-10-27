@@ -1,0 +1,36 @@
+*{
+    background-color:hsl(240, 51%, 31%);
+}
+
+.sec{
+    background-color:rgb(203, 151, 87);
+    color: black;
+}
+
+.sec-1{
+    background-color: green;
+}
+
+#{
+background-color:aqua ;
+color: black;
+}
+
+h2{
+    background-color:aqua;
+    color: black;
+}
+ 
+h3{
+    background-color: plum;
+    color: white;
+}
+
+div{
+    background-color: palevioletred;
+    color:black;
+}
+
+p{
+    background-color: palevioletred;
+    color:black;
